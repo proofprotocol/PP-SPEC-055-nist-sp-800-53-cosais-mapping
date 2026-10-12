@@ -118,7 +118,7 @@ NIST SP 800-53 Rev. 5 and COSAiS materials are NIST publications. NIST SP 800-53
 
 This specification references control family codes, control and enhancement identifier formats, overlay use-case names, and structural terms only. It does not reproduce control statements, discussion text, or overlay content.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. That license applies only to original Proof Protocol material in this repository. It does not relicense external standards, regulations, criteria, frameworks, or trademarks.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
